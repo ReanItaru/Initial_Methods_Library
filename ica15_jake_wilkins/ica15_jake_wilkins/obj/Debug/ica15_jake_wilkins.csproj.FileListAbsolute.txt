@@ -1,0 +1,7 @@
+C:\Users\Rean\Desktop\C# scripts\ica15_jake_wilkins\ica15_jake_wilkins\bin\Debug\ica15_jake_wilkins.exe.config
+C:\Users\Rean\Desktop\C# scripts\ica15_jake_wilkins\ica15_jake_wilkins\bin\Debug\ica15_jake_wilkins.exe
+C:\Users\Rean\Desktop\C# scripts\ica15_jake_wilkins\ica15_jake_wilkins\bin\Debug\ica15_jake_wilkins.pdb
+C:\Users\Rean\Desktop\C# scripts\ica15_jake_wilkins\ica15_jake_wilkins\bin\Debug\Utility_Library.dll
+C:\Users\Rean\Desktop\C# scripts\ica15_jake_wilkins\ica15_jake_wilkins\obj\Debug\ica15_jake_wilkins.csprojResolveAssemblyReference.cache
+C:\Users\Rean\Desktop\C# scripts\ica15_jake_wilkins\ica15_jake_wilkins\obj\Debug\ica15_jake_wilkins.exe
+C:\Users\Rean\Desktop\C# scripts\ica15_jake_wilkins\ica15_jake_wilkins\obj\Debug\ica15_jake_wilkins.pdb
